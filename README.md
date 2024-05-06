@@ -3,7 +3,7 @@
 
 This is a copy of the PDF & HTML version of the manual found in
 
-https://css.csail.mit.edu/6.858/2014/readings/i386.pdf
+https://css.csail.mit.edu/6.858/2014/readings/i386.pdf  
 https://css.csail.mit.edu/6.858/2014/readings/i386/toc.htm
 
 Since there are lots of typos in the manual,
